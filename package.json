@@ -4,7 +4,8 @@
   "description": "Learning from fullstack from scrath",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Do Work\""
   },
   "author": "Stanley Lewis",
   "license": "ISC",
